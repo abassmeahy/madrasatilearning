@@ -1,0 +1,585 @@
+[  0s]: Date 28.06.2016, 14:16
+[  0s]: Windows NT 6.1, Build 7601 Service Pack 1
+[  0s]: TextMaker 2010, Revision 584 (32 Bit)
+[  0s]:  
+[  0s]: Windows: C:\Windows\system32 (54508 MBytes free)
+[  0s]: Tempfiles: C:\Users\hp\AppData\Local\Temp\TMP8704.TMP (54508 MBytes free)
+[  0s]: TEMP: C:\Users\hp\AppData\Local\Temp
+[  0s]: TMP: C:\Users\hp\AppData\Local\Temp
+[  0s]: Application: C:\Program Files (x86)\Ashampoo\Ashampoo Office 2010\TextMaker.exe (54508 MBytes free)
+[  0s]: SerialNumber 00000-00000-00000-00000-00000
+[  0s]: Printers:
+[  0s]: Windows printer <Microsoft XPS Document Writer,winspool,Ne00:>
+[  0s]: Printer <Microsoft XPS Document Writer,Microsoft XPS Document Writer,>
+[  0s]: Printer <Fax,Microsoft Shared Fax Driver,>
+[  0s]:  
+[  1s]: File: C:\Windows\system32\MSIMG32.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription GDIEXT Client DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:15:44
+[  1s]:   FileSize 4608
+[  1s]: File: C:\Windows\system32\OLEAUT32.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileVersion ??crosoft Corporation
+[  1s]:   ProductVersion ??crosoft Corporation
+[  1s]:   FileDate 21.11.2010 06:24:00
+[  1s]:   FileSize 571904
+[  1s]: File: C:\Windows\system32\ole32.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Microsoft OLE for Windows
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 21.11.2010 06:24:01
+[  1s]:   FileSize 1414144
+[  1s]: File: C:\Windows\system32\oledlg.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription OLE User Interface Support
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:16:12
+[  1s]:   FileSize 103424
+[  1s]: File: C:\Windows\system32\WINSPOOL.DRV
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Windows Spooler Driver
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 21.11.2010 06:24:08
+[  1s]:   FileSize 320000
+[  1s]: File: C:\Windows\system32\MPR.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Multiple Provider Router DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:15:41
+[  1s]:   FileSize 64000
+[  1s]: File: C:\Windows\system32\VERSION.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Version Checking and File Installation Libraries
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:16:17
+[  1s]:   FileSize 21504
+[  1s]: File: C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af\COMCTL32.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Common Controls Library
+[  1s]:   FileVersion 5.82 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 21.11.2010 06:24:09
+[  1s]:   FileSize 530432
+[  1s]: File: C:\Windows\system32\comdlg32.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Common Dialogs DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 21.11.2010 06:23:48
+[  1s]:   FileSize 485888
+[  1s]: File: C:\Windows\system32\SHLWAPI.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Shell Light-weight Utility Library
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 21.11.2010 06:23:48
+[  1s]:   FileSize 350208
+[  1s]: File: C:\Windows\system32\SHELL32.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Windows Shell Common Dll
+[  1s]:   FileVersion 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7601.17514
+[  1s]:   FileDate 21.11.2010 06:24:02
+[  1s]:   FileSize 12872192
+[  1s]: File: C:\Windows\system32\USP10.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Uniscribe Unicode script processor
+[  1s]:   FileVersion 1.0626.7601.17514 (win7sp1_rtm.101119-1850)
+[  1s]:   ProductName Microsoft(R) Uniscribe Unicode script processor
+[  1s]:   ProductVersion 1.0626.7601.17514
+[  1s]:   FileDate 21.11.2010 06:24:16
+[  1s]:   FileSize 626176
+[  1s]: File: C:\Windows\system32\LPK.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Language Pack
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:11:23
+[  1s]:   FileSize 25600
+[  1s]: File: C:\Windows\system32\GDI32.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription GDI Client DLL
+[  1s]:   FileVersion 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7601.17514
+[  1s]:   FileDate 21.11.2010 06:24:14
+[  1s]:   FileSize 311296
+[  1s]: File: C:\Windows\system32\USER32.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Multi-User Windows USER API Client DLL
+[  1s]:   FileVersion 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7601.17514
+[  1s]:   FileDate 21.11.2010 06:24:20
+[  1s]:   FileSize 833024
+[  1s]: File: C:\Windows\system32\API-MS-Win-Security-LSALookup-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 02:11:53
+[  1s]:   FileSize 3584
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-DelayLoad-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3072
+[  1s]: File: C:\Windows\system32\CRYPTBASE.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Base cryptographic API DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:15:07
+[  1s]:   FileSize 36864
+[  1s]: File: C:\Windows\system32\SspiCli.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Security Support Provider Interface
+[  1s]:   FileVersion 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7601.17514
+[  1s]:   FileDate 21.11.2010 06:24:16
+[  1s]:   FileSize 96768
+[  1s]: File: C:\Windows\system32\RPCRT4.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Remote Procedure Call Runtime
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 21.11.2010 06:24:11
+[  1s]:   FileSize 663040
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-LocalRegistry-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 4096
+[  1s]: File: C:\Windows\system32\API-MS-WIN-Service-Management-L2-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 2560
+[  1s]: File: C:\Windows\system32\API-MS-WIN-Service-Management-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 2560
+[  1s]: File: C:\Windows\system32\API-MS-WIN-Service-winsvc-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3584
+[  1s]: File: C:\Windows\system32\API-MS-WIN-Service-Core-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 2560
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-Interlocked-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3584
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-DateTime-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3072
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-Console-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3072
+[  1s]: File: C:\Windows\system32\msvcrt.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Windows NT CRT DLL
+[  1s]:   FileVersion 7.0.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 7.0.7600.16385
+[  1s]:   FileDate 14.07.2009 04:15:50
+[  1s]:   FileSize 690688
+[  1s]: File: C:\Windows\system32\ADVAPI32.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Advanced Windows 32 Base API
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 21.11.2010 06:24:28
+[  1s]:   FileSize 640512
+[  1s]: File: C:\Windows\system32\API-MS-Win-Security-Base-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 02:10:56
+[  1s]:   FileSize 6144
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-Profile-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3072
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-Util-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 02:10:56
+[  1s]:   FileSize 3072
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-Fibers-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3072
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-ErrorHandling-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3072
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-Debug-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3072
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-String-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3072
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-ProcessEnvironment-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3584
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-Localization-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 4096
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-SysInfo-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 4096
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-Misc-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 4096
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-NamedPipe-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3584
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-LibraryLoader-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3584
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-ThreadPool-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 02:10:56
+[  1s]:   FileSize 4608
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-IO-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3072
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-File-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 5120
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-Synch-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 4096
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-Handle-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3072
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-Memory-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3584
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-Heap-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3584
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-ProcessThreads-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 4608
+[  1s]: File: C:\Windows\system32\KERNELBASE.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Windows NT BASE API Client DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 21.11.2010 06:24:33
+[  1s]:   FileSize 269824
+[  1s]: File: C:\Windows\system32\ntdll.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription NT Layer DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 21.11.2010 06:24:01
+[  1s]:   FileSize 1292096
+[  1s]: File: C:\Windows\system32\API-MS-Win-Core-RtlSupport-L1-1-0.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription ApiSet Stub DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 14.07.2009 04:03:49
+[  1s]:   FileSize 3072
+[  1s]: File: C:\Windows\system32\KERNEL32.dll
+[  1s]:   CompanyName Microsoft Corporation
+[  1s]:   FileDescription Windows NT BASE API Client DLL
+[  1s]:   FileVersion 6.1.7600.16385 (win7_rtm.090713-1255)
+[  1s]:   ProductName Microsoft® Windows® Operating System
+[  1s]:   ProductVersion 6.1.7600.16385
+[  1s]:   FileDate 21.11.2010 06:24:15
+[  1s]:   FileSize 837632
+[  1s]: File: C:\Program Files (x86)\Ashampoo\Ashampoo Office 2010\TextMaker.exe
+[  1s]:   CompanyName SoftMaker Software GmbH
+[  1s]:   FileDescription TextMaker
+[  1s]:   FileVersion 2010,0,0,584
+[  1s]:   ProductName TextMaker
+[  1s]:   ProductVersion 2010
+[  1s]:   FileDate 05.05.2010 09:48:38
+[  1s]:   FileSize 12468260
+[  1s]: Resource files:
+[  1s]: TextMaker_ar.dwr : 581376 bytes : [5.5.2010 9:46.16 GMT]
+[  1s]: Currently running jobs:
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable C:\Program Files (x86)\ManyCam\Bin\ManyCam.exe
+[  1s]: Executable C:\Program Files (x86)\Yahoo!\Messenger\YahooMessenger.exe
+[  1s]: Executable C:\Program Files (x86)\Ashampoo\Ashampoo Office 2010\Smash.exe
+[  1s]: Executable C:\Program Files (x86)\Ask.com\Updater\Updater.exe
+[  1s]: Executable C:\Program Files (x86)\Real\RealPlayer\Update\realsched.exe
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable C:\Program Files (x86)\Avira\AntiVir Desktop\avgnt.exe
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable 
+[  1s]: Executable C:\Program Files (x86)\Ashampoo\Ashampoo Office 2010\TextMaker.exe
+[  1s]: StartMain
+[  1s]: comInit: Ole2
+[  1s]: comInit: CmdLine
+[  1s]: CmdLine </Shell>
+[  1s]: comInit: OleAutomation
+[  1s]: comInit: Address
+[  1s]: comInit: DDE
+[  1s]: comInit: InitCountry
+[  1s]: Country Settings1: ID:3c6 CP:4e8 Curr:Ñ.Ó.þ CF:0 NF:12 TS:, DS:.
+[  1s]: Country Settings2: MS:4 LS:; Lng:DEU
+[  1s]: Country Settings Date: DF:5e5a DS:/ DW: D1S:/ D2S:/
+[  1s]: Country Settings Time: TF:2 TS:: TA:Õ TP:ã
+[  1s]: comInit: Controls
+[  1s]: comInit: Icons
+[  2s]: comInit: Res
+[  2s]: comInit: InitPrefs
+[  2s]: comInit: Register
+[  2s]: comInit: InitMenu
+[  2s]: comInit: CreateMain
+[  2s]: CreateWindow <tmwMdiFrame>
+[  2s]: CreateWindow <MDICLIENT>
+[  2s]: comInit: Menuhelp
+[  2s]: comInit: DragDrop
+[  2s]: CreateWindow <WPTITLE>
+[  2s]: comInit: CtlStrips
+[  2s]: CreateWindow <SMTOOLTIP>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCOMBOLB>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCOMBOLB>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCOMBOLB>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCOMBOLB>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCOMBOLB>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCOMBOLB>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCOMBOLB>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: CreateWindow <SMCTLSTRIP>
+[  2s]: comInit: WindowSize
+[  2s]: comInit: Treeview
+[  2s]: comInit: Colors
+[  2s]: comInit: appData
+[  2s]: wpInit: Brushes
+[  2s]: wpInit: Format
+[  2s]: wpInit: Format
+[  2s]: wpInit: Cursors
+[  2s]: wpInit: Icons
+[  2s]: wpInit: Register
+[  2s]: wpInit: RegisterClass
+[  2s]: CreateWindow <SMDIALOG>
+[  8s]: Shutdown: DDE
+[  8s]: Shutdown: Memory
+[  8s]: Shutdown: AppCleanup
+[  8s]: Shutdown: ClearString
+[  8s]: Shutdown: CleanupDialog
+[  8s]: Shutdown: Complete
